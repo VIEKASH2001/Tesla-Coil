@@ -11,7 +11,7 @@ A Tesla coil is an electrical resonant transformer circuit used to produce high-
 The main objective of this project is to understand the working principle of a Tesla coil and demonstrate its ability to generate high voltage electricity. This project is designed for Class 12 CBSE Boards Physics students, and it is intended to provide them with hands-on experience in building and testing a practical electrical circuit.
 
 ### Materials Required
-* Copper wire
+1. Copper wire
 2. PVC pipe
 3. Capacitors
 4. Spark gap
