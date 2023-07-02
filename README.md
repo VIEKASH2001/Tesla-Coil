@@ -1,4 +1,9 @@
-# Tesla-Coil
+<div align="center">
+<p align="center">
+<a href="https://github.com/VIEKASH2001">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=500&multiline=true&width=500&height=80&lines=Tesla+Coil" alt="Typing SVG" />
+</a>
+<br/>
 
 Demonstration Video Link: https://youtu.be/mRFskCGwlqY
 
