@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=500&height=80&lines=Tesla+Coil" alt="Typing SVG" />
 </a>
 
-Demonstration Video Link: https://youtu.be/mRFskCGwlqY
+**Demonstration Video Link:** https://youtu.be/mRFskCGwlqY
 
 This project aims to build a Tesla coil, a type of resonant transformer circuit invented by Nikola Tesla in the late 19th century, which can generate high voltage, low current electricity.
 
